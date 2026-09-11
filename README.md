@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thaveesha Sonnadara</h1>
 <h3 align="center">FullStack Software Engineer</h3>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=435&lines=Upcoming+FullStack+Software+Engineer.;Always+eager+to+learn+something+new." alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
   I design and build end-to-end software products — from intuitive frontends to scalable backend services and data-driven systems.
 </p>
@@ -25,9 +29,11 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=E40035)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Databases
+![NestJs](https://img.shields.io/badge/Nest%20JS-0E0E10?style=for-the-badge&logo=nestjs&logoColor=EA2845)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -39,6 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-171717?style=for-the-badge&logo=vercel&logoColor=#FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -46,7 +53,8 @@
 ## 🏆 Badges & Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThaveeshaSonnadara&theme=algolia&row=1&column=7" alt="github trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ThaveeshaSonnadara&theme=algolia&row=1&column=7" alt="github trophies" /> -->
+	<img src="https://github-trophies.devomb.com/?username=ThaveeshaSonnadara&theme=algolia&row=1&column=7" alt="Github Trophies"/>
 </p>
 
 - 🎖️ GitHub Achievements showcased on profile
@@ -69,12 +77,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThaveeshaSonnadara&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThaveeshaSonnadara&theme=tokyonight" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ThaveeshaSonnadara&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <a href="https://git.io/streak-stats"><img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ThaveeshaSonnadara&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaveeshaSonnadara&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ThaveeshaSonnadara&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
