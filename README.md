@@ -53,7 +53,6 @@
 ## 🏆 Badges & Achievements
 
 <p align="left">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ThaveeshaSonnadara&theme=algolia&row=1&column=7" alt="github trophies" /> -->
 	<img src="https://github-trophies.devomb.com/?username=ThaveeshaSonnadara&theme=algolia&row=1&column=7" alt="Github Trophies"/>
 </p>
 
@@ -78,7 +77,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ThaveeshaSonnadara&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <a href="https://git.io/streak-stats"><img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ThaveeshaSonnadara&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-omega-ruby.vercel.app?user=ThaveeshaSonnadara&theme=tokyonight&card_width=410&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
